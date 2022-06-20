@@ -28,3 +28,6 @@
 
 ### vomit_blood.gif
 ![](https://github.com/qg25/WeirdStuff/blob/master/gif/vomit_blood.gif)
+
+### anya_ritual.gif
+![](https://github.com/qg25/WeirdStuff/blob/master/gif/anya_ritual.gif)
